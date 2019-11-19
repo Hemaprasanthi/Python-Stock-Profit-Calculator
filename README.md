@@ -48,3 +48,6 @@ Net Profit $7,203.75
 Return on Investment 189.76%
 
 To break even, you should have a final share price of $25.25
+
+![Screenshot](Result.png)
+
